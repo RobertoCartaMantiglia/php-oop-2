@@ -14,7 +14,7 @@ include_once __DIR__ . "/db/db.php";
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css" rel="stylesheet" />
-  <title>Movies</title>
+  <title>Pet e-commerce</title>
 </head>
 
 <body>
